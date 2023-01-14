@@ -1,16 +1,5 @@
-# flutter_chatgpt
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![ChatGPT_Splash](https://user-images.githubusercontent.com/99664596/212485772-03d3b7ba-0a13-4038-9a06-da13c7cc76f4.png)
+![ChatGPT_S2](https://user-images.githubusercontent.com/99664596/212485777-b27a5661-f6f7-4fa9-b097-44e703f8b619.png)
+![ChatGPT_S3](https://user-images.githubusercontent.com/99664596/212485780-d36d9c98-c7c6-4f37-861f-47421b36177c.png)
+![ChatGPT_S4](https://user-images.githubusercontent.com/99664596/212485784-b12052d7-9751-439f-b0d4-eedeeaec70a0.png)
+![ChatGPT_S5](https://user-images.githubusercontent.com/99664596/212485787-80a5c5f3-1718-416e-8858-1fa57ee20ae9.png)
